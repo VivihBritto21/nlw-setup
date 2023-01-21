@@ -34,7 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://VivihBritto21.github.io/nlw-setup)
+
+<div align="left"> 
+  -[Visite o projeto online](https://VivihBritto21.github.io/nlw-setup)
+</div>
 
 ## 🔖 Layout
 
